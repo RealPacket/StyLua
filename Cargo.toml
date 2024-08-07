@@ -1,5 +1,5 @@
 [package]
-name = "stylua-nightly"
+name = "stylua"
 version = "0.20.0"
 authors = ["RealPacket"]
 description = "A code formatter for Lua"

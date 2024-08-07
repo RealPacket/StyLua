@@ -1011,7 +1011,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "stylua-nightly"
+name = "stylua"
 version = "0.20.0"
 dependencies = [
  "anyhow",
