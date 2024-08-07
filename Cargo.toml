@@ -1,10 +1,10 @@
 [package]
-name = "stylua"
+name = "stylua-nightly"
 version = "0.20.0"
-authors = ["JohnnyMorganz <johnnymorganz@outlook.com>"]
+authors = ["RealPacket"]
 description = "A code formatter for Lua"
 license = "MPL-2.0"
-repository = "https://github.com/johnnymorganz/stylua"
+repository = "https://github.com/RealPacket/stylua"
 readme = "README.md"
 categories = ["command-line-utilities", "development-tools"]
 keywords = ["cli", "utility", "lua", "lua51", "formatter"]
