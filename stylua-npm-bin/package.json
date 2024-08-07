@@ -1,5 +1,5 @@
 {
-  "name": "@johnnymorganz/stylua-bin",
+  "name": "@realpacket/stylua-bin",
   "version": "0.20.0",
   "description": "A code formatter for Lua",
   "bin": {
