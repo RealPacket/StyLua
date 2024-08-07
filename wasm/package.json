@@ -1,7 +1,7 @@
 {
-    "name": "@johnnymorganz/stylua",
+    "name": "@realpacket/stylua-nightly",
     "collaborators": [
-        "JohnnyMorganz <johnnymorganz@outlook.com>"
+        "RealPacket"
     ],
     "description": "A code formatter for Lua",
     "version": "0.20.0",
@@ -9,7 +9,7 @@
     "readme": "README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/johnnymorganz/stylua"
+        "url": "https://github.com/RealPacket/stylua-nightly"
     },
     "files": [
         "stylua.web/stylua_lib_bg.wasm.d.ts",
